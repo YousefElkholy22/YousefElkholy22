@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" >
 <h3 align="center">
   <br>
-  Welcome to Eslam Shaban's profile!
+  Welcome to Yousef Elkholy profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -11,11 +11,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web-Development%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00DF67&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Web Development Student
-- 👨‍💻 As a Electrical Engineering student , I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with HTML , CSS , Git, GitHub , Visual Studio Code and Python.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-
+- 🏢 I'm a Mobile Application Developer
+- 👨‍💻 studying Computers and Information Science , I'm constantly learning and exploring new technologies to improve my skills.
+- 📱 Currently learning and working with Flutter, Dart, Firebase, state management (such as Cubit), Git, GitHub, and Visual Studio Code.
 
 ### Connect with Me :
 
